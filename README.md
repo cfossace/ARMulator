@@ -4,6 +4,8 @@ ARM CLI Emulation Tool
 
 ### Dependencies
 
+- pipenv [or other virtual environment]
+
 Requires Python3, only tested on 3.5 use at own risk otherwise.
 
 ```
